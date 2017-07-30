@@ -1,6 +1,6 @@
-# JBoss Fuse Docker container
+## JBoss Fuse Docker container
 
-90-days trial JBoss Fuse docker image
+90-days trial JBoss Fuse Docker Image
 
 
 ## Docker container for newly released JBoss Fuse ESB server
@@ -22,7 +22,35 @@ Source Repositories :
 * [docker-jboss-fuse](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse)
 
 
+Docker Hub :
+
+* [jboss-fuse docker-hub page](https://hub.docker.com/r/builditftorelli/jboss-fuse/)
+
+## JBoss Fuse Docker container
+
+90-days trial JBoss Fuse Docker Image
+
+
+## Docker container for newly released JBoss Fuse ESB server
+
+This continer install on first start-up following features:
+
+* JBoss Fuse 6.3.0 integration on JBoss EAP 6.4.0
+* JBoss Fuse 6.3.0 over Apache Karaf
+
+
+Available Docker image versions :
+
+* JBoss Fuse 6.3.0 Docker LATEST ([latest/Dockerfile](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse/tree/master/Dockerfile))
+* JBoss Fuse 6.3.0 Docker ([3.6.0/Dockerfile](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse/tree/6.3.0/Dockerfile))
+
+
 Source Repositories :
+
+* [docker-jboss-fuse](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse)
+
+
+Docker Hub :
 
 * [jboss-fuse docker-hub page](https://hub.docker.com/r/builditftorelli/jboss-fuse/)
 
@@ -178,7 +206,7 @@ Please report any issue on project Issue Tracker at :
 [docker-jboss-fuse Issue Tracker](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse/issues)
 
 
-## License
+### License
 
 Copyright (c) 2016-2017 [BuildIt, Inc.](http://buildit.digital)
 
