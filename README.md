@@ -1,6 +1,6 @@
-# JBoss Fuse Docker container
+## JBoss Fuse Docker container
 
-90-days trial JBoss Fuse docker image
+90-days trial JBoss Fuse Docker Image
 
 
 ## Docker container for newly released JBoss Fuse ESB server
@@ -22,7 +22,7 @@ Source Repositories :
 * [docker-jboss-fuse](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse)
 
 
-Source Repositories :
+Docker Hub :
 
 * [jboss-fuse docker-hub page](https://hub.docker.com/r/builditftorelli/jboss-fuse/)
 
@@ -31,7 +31,7 @@ Source Repositories :
 
 This project realises a sample 90-days trial version of JBoss Fuse 6.3.0, in order to evaluate one of latest ReadHat eficient ESB server based on osgi and Apache Camel technologies. This project define a StandAlone environment for test purposes only.
 
-*Caution* : No warranties are extended to production or business use of this container, and we are not responsible for illegal or inappropriate use of this project outcomes or any damage on business or digital crime, derived for third-parties actions.
+*Caution* : No warranties are extended to production or business use of this container, and we are not responsible for illegal or inappropriate use of this project outcomes or any damage on business or digital crime, derived for third-parties use of provided artefacts.
 
 
 ### Our Philosophy
@@ -178,7 +178,7 @@ Please report any issue on project Issue Tracker at :
 [docker-jboss-fuse Issue Tracker](https://github.com/fabriziotorelli-wipro/docker-jboss-fuse/issues)
 
 
-## License
+### License
 
 Copyright (c) 2016-2017 [BuildIt, Inc.](http://buildit.digital)
 
