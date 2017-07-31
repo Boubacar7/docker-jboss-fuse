@@ -5,7 +5,7 @@
 
 ## Docker container for newly released JBoss Fuse ESB server
 
-This continer install on first start-up following features:
+This container installs on first start-up following features:
 
 * JBoss Fuse 6.3.0 integration on JBoss EAP 6.4.0
 * JBoss Fuse 6.3.0 over Apache Karaf
@@ -23,6 +23,7 @@ Source Repositories :
 
 
 Docker Hub :
+<<<<<<< HEAD
 
 * [jboss-fuse docker-hub page](https://hub.docker.com/r/builditftorelli/jboss-fuse/)
 
@@ -59,7 +60,7 @@ Docker Hub :
 
 This project realises a sample 90-days trial version of JBoss Fuse 6.3.0, in order to evaluate one of latest ReadHat eficient ESB server based on osgi and Apache Camel technologies. This project define a StandAlone environment for test purposes only.
 
-*Caution* : No warranties are extended to production or business use of this container, and we are not responsible for illegal or inappropriate use of this project outcomes or any damage on business or digital crime, derived for third-parties actions.
+*Caution* : No warranties are extended to production or business use of this container, and we are not responsible for illegal or inappropriate use of this project outcomes or any damage on business or digital crime, derived for third-parties use of provided artefacts.
 
 
 ### Our Philosophy
@@ -155,7 +156,7 @@ docker pull hellgate75/jboss-fuse:6.3.0
 
 ### Execute Docker image
 
-In order to execute this docker image, after you have built the image, you can use following command :
+In order to execute this docker image, after you have built it with docker, you can use following command :
 
 ```bash
 docker run -d --name jboss-fuse-6.3.0 -p 8009:8009 -p 8080:8080 -p 9999:9999 -p 9990:9990 -p 9443:9443 -p 4447:4447 -p 8443:8443 \
