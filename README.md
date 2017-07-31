@@ -131,14 +131,14 @@ In order to execute this docker image, after you have built it with docker, you 
 
 ```bash
 docker run -d --name jboss-fuse-6.3.0 -p 8009:8009 -p 8080:8080 -p 9999:9999 -p 9990:9990 -p 9443:9443 -p 4447:4447 -p 8443:8443 \
-            -p 4712:4712 -p 4713:4713 -p 8181:8181 -p 8101:8101 jboss-fuse:6.3.0 .
+            -p 4712:4712 -p 4713:4713 -p 8181:8181 -p 8101:8101 jboss-fuse:6.3.0
 ```
 
 In order to execute Docker Hub image, without any prior docker build, you can use following command :
 
 ```bash
 docker run -d --name jboss-fuse-6.3.0 -p 8009:8009 -p 8080:8080 -p 9999:9999 -p 9990:9990 -p 9443:9443 -p 4447:4447 -p 8443:8443 \
-            -p 4712:4712 -p 4713:4713 -p 8181:8181 -p 8101:8101 hellgate75/jboss-fuse:6.3.0 .
+            -p 4712:4712 -p 4713:4713 -p 8181:8181 -p 8101:8101 hellgate75/jboss-fuse:6.3.0
 ```
 
 
